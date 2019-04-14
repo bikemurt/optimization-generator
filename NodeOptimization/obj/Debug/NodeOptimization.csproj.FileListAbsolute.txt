@@ -1,0 +1,10 @@
+C:\Users\mburt\source\repos\NodeOptimization\NodeOptimization\bin\Debug\NodeOptimization.exe.config
+C:\Users\mburt\source\repos\NodeOptimization\NodeOptimization\bin\Debug\NodeOptimization.exe
+C:\Users\mburt\source\repos\NodeOptimization\NodeOptimization\bin\Debug\NodeOptimization.pdb
+C:\Users\mburt\source\repos\NodeOptimization\NodeOptimization\obj\Debug\NodeOptimization.Form1.resources
+C:\Users\mburt\source\repos\NodeOptimization\NodeOptimization\obj\Debug\NodeOptimization.Properties.Resources.resources
+C:\Users\mburt\source\repos\NodeOptimization\NodeOptimization\obj\Debug\NodeOptimization.csproj.GenerateResource.cache
+C:\Users\mburt\source\repos\NodeOptimization\NodeOptimization\obj\Debug\NodeOptimization.csproj.CoreCompileInputs.cache
+C:\Users\mburt\source\repos\NodeOptimization\NodeOptimization\obj\Debug\NodeOptimization.exe
+C:\Users\mburt\source\repos\NodeOptimization\NodeOptimization\obj\Debug\NodeOptimization.pdb
+C:\Users\mburt\source\repos\NodeOptimization\NodeOptimization\obj\Debug\NodeOptimization.csprojAssemblyReference.cache
