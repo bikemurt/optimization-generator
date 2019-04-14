@@ -1,6 +1,8 @@
 # optimization-generator
 A random optimization nodal network generator to test my optimization algorithm.
 
+Currently the only major bug is that the WinForms OnPaint method occasionally erases the graphics that I've drawn on screen. If anyone knows how to make the drawn graphics persist on screen please let me know.
+
 These parameters can be changed in the main WinForm:
 
         // parameters: xr = x rate, o = offset, r = radius, fpx = first position x, fpy = first position y
